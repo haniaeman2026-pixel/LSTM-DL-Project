@@ -36,7 +36,6 @@ The model predicts whether a tweet expresses a **Positive** or **Negative** sent
 | **Test Loss** | **0.1937** |
 
 ---
-
 ##  Sample Prediction
 
 ```python
@@ -44,7 +43,7 @@ Input: "this product is amazing"
 
 Output: Positive Tweet 😊
 
- Learning Outcomes
+📚 Learning Outcomes
 
 This project helped me gain practical experience in:
 
@@ -52,7 +51,3 @@ Natural Language Processing (NLP)
 Deep Learning with LSTM
 Text Classification
 TensorFlow/Keras
-
- Author
- 
-Hania Eman
