@@ -49,11 +49,11 @@ Output: Positive Tweet 😊
 
 This project helped me gain practical experience in:
 
-Natural Language Processing (NLP)
-Deep Learning with LSTM
-Text Classification
-TensorFlow/Keras
+- Natural Language Processing (NLP)
+- Deep Learning with LSTM
+- Text Classification
+- TensorFlow/Keras
 
- Author
+ ##  Author
 
-Hania Eman 
+**Hania Eman**
